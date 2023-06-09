@@ -12,8 +12,8 @@ var person = {
 var post = { 
   imageSrc: "./images/beach.png",
   caption: "At the beach with my besties", 
-  timestamp: "4:37 PM August 13, 2019",
-  number_likes: 0,
+  timeStamp: "4:37 PM August 13, 2019",
+  numberLikes: 0,
   comments: [] 
 };
 // This Poor person has no likes or comments.
@@ -22,7 +22,7 @@ var post = {
 var post2 = {
   imageSrc: "./images/holiday-party.png",
   caption: "What a great holiday party omg",
-  timestamp: "11:37 PM December 31, 2019",
+  timeStamp: "11:37 PM December 31, 2019",
   numberLikes: 13,
   comments: []
 };
